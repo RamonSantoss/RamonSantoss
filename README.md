@@ -1,8 +1,8 @@
-### Olá, Eu sou Ramon 👋
+### Hi, I'm Ramon 👋
 
 
-- 🔭 Hoje trabalho na áreas de vendas
-- 🌱 Estudando HTML e CSS
+- 🔭 Today I work in the sales area.
+- 🌱 Studying HTML and CSS
 
 ###
 <div align="left">
